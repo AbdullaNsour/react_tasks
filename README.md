@@ -19,3 +19,7 @@ React Task
 <img src="https://user-images.githubusercontent.com/108789992/200786160-70398aee-b7fc-4d83-aadb-bfd1aed907c3.png">
 <h3> Task React 8- calc </h3>
 <img src="https://user-images.githubusercontent.com/108789992/203003729-b2ef3a50-65ee-4256-ae5e-9db4f2b856e9.png">
+<h3> Task React 9- CRUD </h3>
+<img src="https://user-images.githubusercontent.com/108789992/203016557-8131532f-ba37-4f25-925c-a71733d18fbd.png">
+<img src="https://user-images.githubusercontent.com/108789992/203016667-a63a55cb-d46e-4e83-9c14-c7ba8964c259.png">
+
